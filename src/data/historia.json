@@ -1,0 +1,128 @@
+{
+    "title": "A Aventura na Floresta",
+    "chapters": [
+        {
+            "title": "Capítulo 1: A Iniciação",
+            "text": "Você se encontra em uma floresta misteriosa. O sol está começando a se pôr e você sente que uma aventura está prestes a começar.",
+            "choices": [
+                {
+                    "text": "Explorar a floresta.",
+                    "nextChapter": "Capítulo 2: O Encontro"
+                },
+                {
+                    "text": "Construir um abrigo.",
+                    "nextChapter": "Capítulo 3: A Noite"
+                }
+            ]
+        },
+        {
+            "title": "Capítulo 2: O Encontro",
+            "text": "Enquanto explora, você encontra um estranho animal mágico. Ele parece amigável.",
+            "choices": [
+                {
+                    "text": "Aproximar-se do animal.",
+                    "nextChapter": "Capítulo 4: O Amigo Mágico"
+                },
+                {
+                    "text": "Ignorar e continuar explorando.",
+                    "nextChapter": "Capítulo 5: O Mistério"
+                }
+            ]
+        },
+        {
+            "title": "Capítulo 3: A Noite",
+            "text": "Você passa a noite em seu abrigo, mas ouve sons estranhos vindo da floresta.",
+            "choices": [
+                {
+                    "text": "Investigar o som.",
+                    "nextChapter": "Capítulo 6: O Perigo"
+                },
+                {
+                    "text": "Ficar escondido.",
+                    "nextChapter": "Capítulo 7: A Segurança"
+                }
+            ]
+        },
+        {
+            "title": "Capítulo 4: O Amigo Mágico",
+            "text": "O animal mágico se apresenta como um guia e oferece ajuda em sua jornada.",
+            "choices": [
+                {
+                    "text": "Aceitar a ajuda.",
+                    "nextChapter": "Capítulo 8: A Jornada Começa"
+                },
+                {
+                    "text": "Recusar a ajuda.",
+                    "nextChapter": "Capítulo 9: A Solidão"
+                }
+            ]
+        },
+        {
+            "title": "Capítulo 5: O Mistério",
+            "text": "Você se depara com uma árvore gigante e misteriosa que parece ter segredos.",
+            "choices": [
+                {
+                    "text": "Investigar a árvore.",
+                    "nextChapter": "Capítulo 10: O Segredo"
+                },
+                {
+                    "text": "Voltar para a floresta.",
+                    "nextChapter": "Capítulo 1: A Iniciação"
+                }
+            ]
+        },
+        {
+            "title": "Capítulo 6: O Perigo",
+            "text": "Você se depara com uma criatura feroz. O que você fará?",
+            "choices": [
+                {
+                    "text": "Correr.",
+                    "nextChapter": "Capítulo 11: A Fuga"
+                },
+                {
+                    "text": "Lutar.",
+                    "nextChapter": "Capítulo 12: A Batalha"
+                }
+            ]
+        },
+        {
+            "title": "Capítulo 7: A Segurança",
+            "text": "Você passa a noite em segurança, mas o dia seguinte traz novas surpresas.",
+            "choices": [
+                {
+                    "text": "Sair do abrigo.",
+                    "nextChapter": "Capítulo 1: A Iniciação"
+                },
+                {
+                    "text": "Ficar mais um pouco.",
+                    "nextChapter": "Capítulo 3: A Noite"
+                }
+            ]
+        },
+        {
+            "title": "Capítulo 8: A Jornada Começa",
+            "text": "Você e seu novo amigo mágico partem em uma nova aventura.",
+            "choices": []
+        },
+        {
+            "title": "Capítulo 9: A Solidão",
+            "text": "Você se sente sozinho e percebe que a ajuda é importante.",
+            "choices": []
+        },
+        {
+            "title": "Capítulo 10: O Segredo",
+            "text": "Você descobre um segredo sobre a floresta que pode mudar tudo.",
+            "choices": []
+        },
+        {
+            "title": "Capítulo 11: A Fuga",
+            "text": "Você consegue escapar, mas a aventura não termina aqui.",
+            "choices": []
+        },
+        {
+            "title": "Capítulo 12: A Batalha",
+            "text": "Após uma luta intensa, você deve decidir seu próximo passo.",
+            "choices": []
+        }
+    ]
+}
